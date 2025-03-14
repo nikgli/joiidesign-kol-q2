@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import '../app.css';
 
 // Placeholder images - replace with your actual social media video thumbnails/embeds
